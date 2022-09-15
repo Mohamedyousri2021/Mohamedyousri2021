@@ -11,7 +11,7 @@ I’m Mohamed Yousri, i'm 23 Years old.
 - SASS
 
 # 📫 CONTACT ME
-[LinkedIn](www.linkedin.com/in/mohamed-yousri-aa2853202)
+[LinkedIn](www.linkedin.com/in/mohamedyousri-)
 
 
 <!---
