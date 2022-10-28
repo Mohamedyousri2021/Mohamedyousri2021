@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m Mohamed Yousri, i'm 23 Years old.
+I’m Mohamed Yousri, I'm 23 Years old.
 
 ### I'm Front End Developer
 
@@ -9,6 +9,7 @@ I’m Mohamed Yousri, i'm 23 Years old.
 - JAVASCRIPT
 - BOOTSTRAP
 - SASS
+- React
 
 # 📫 CONTACT ME
 [LinkedIn](www.linkedin.com/in/mohamedyousri-)
